@@ -2166,7 +2166,6 @@ PRODUCT_PACKAGES += \
     init.qcom.coex \
     init.qcom.early_boot \
     init.qcom.efs.sync \
-    init.qcom.post_boot \
     init.qcom.sdio \
     init.qcom.sensors \
     init.qcom \
